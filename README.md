@@ -1,6 +1,6 @@
 ﻿## Person
 
-김혜지: [HBoon](https://github.com/HBsoon) | 
+김혜지: [HBsoon](https://github.com/HBsoon) | 
  --- | 
 
 <br>
